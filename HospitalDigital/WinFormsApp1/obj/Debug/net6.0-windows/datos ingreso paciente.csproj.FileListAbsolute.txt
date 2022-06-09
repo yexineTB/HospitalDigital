@@ -1,0 +1,37 @@
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.exe
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.deps.json
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.runtimeconfig.json
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.dll
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.pdb
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.AssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.GenerateResource.cache
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.AssemblyInfoInputs.cache
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.AssemblyInfo.cs
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.dll
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\datos ingreso paciente.dll
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.pdb
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.genruntimeconfig.cache
+C:\Users\Estudiante.SALA235-PC22\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\datos ingreso paciente.dll
+D:\Documents\HospitalDigital\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.exe
+D:\Documents\HospitalDigital\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.deps.json
+D:\Documents\HospitalDigital\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.runtimeconfig.json
+D:\Documents\HospitalDigital\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.dll
+D:\Documents\HospitalDigital\WinFormsApp1\bin\Debug\net6.0-windows\datos ingreso paciente.pdb
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.AssemblyReference.cache
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.GenerateResource.cache
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.AssemblyInfoInputs.cache
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.AssemblyInfo.cs
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.csproj.CoreCompileInputs.cache
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.dll
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\refint\datos ingreso paciente.dll
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.pdb
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos ingreso paciente.genruntimeconfig.cache
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\ref\datos ingreso paciente.dll
+D:\Documents\HospitalDigital\WinFormsApp1\obj\Debug\net6.0-windows\datos_ingreso_paciente.Properties.Resources.resources
